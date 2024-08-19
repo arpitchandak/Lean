@@ -65,14 +65,6 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Algorithm\QuantConnect.Algorithm.csproj" />
-    <ProjectReference Include="..\Api\QuantConnect.Api.csproj" />
-    <ProjectReference Include="..\Brokerages\QuantConnect.Brokerages.csproj" />
-    <ProjectReference Include="..\Common\QuantConnect.csproj" />
-    <ProjectReference Include="..\Configuration\QuantConnect.Configuration.csproj" />
-    <ProjectReference Include="..\Engine\QuantConnect.Lean.Engine.csproj" />
-    <ProjectReference Include="..\Logging\QuantConnect.Logging.csproj" />
-    <ProjectReference Include="..\Messaging\QuantConnect.Messaging.csproj" />
     <ProjectReference Include="..\ToolBox\QuantConnect.ToolBox.csproj" />
   </ItemGroup>
   <ItemGroup>

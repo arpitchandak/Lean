@@ -37,17 +37,6 @@
     <PackageReference Include="NodaTime" Version="3.0.5" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Algorithm.Framework\QuantConnect.Algorithm.Framework.csproj" />
-    <ProjectReference Include="..\Algorithm\QuantConnect.Algorithm.csproj" />
-    <ProjectReference Include="..\Api\QuantConnect.Api.csproj" />
-    <ProjectReference Include="..\Common\QuantConnect.csproj" />
-    <ProjectReference Include="..\Configuration\QuantConnect.Configuration.csproj" />
-    <ProjectReference Include="..\Engine\QuantConnect.Lean.Engine.csproj" />
-    <ProjectReference Include="..\Indicators\QuantConnect.Indicators.csproj" />
-    <ProjectReference Include="..\Logging\QuantConnect.Logging.csproj" />
-    <ProjectReference Include="..\Queues\QuantConnect.Queues.csproj" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="BasicCSharpQuantBookTemplate.ipynb">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>

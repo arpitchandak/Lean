@@ -44,7 +44,6 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Api\QuantConnect.Api.csproj" />
-    <ProjectReference Include="..\Common\QuantConnect.csproj" />
     <ProjectReference Include="..\Compression\QuantConnect.Compression.csproj" />
     <ProjectReference Include="..\Configuration\QuantConnect.Configuration.csproj" />
     <ProjectReference Include="..\Logging\QuantConnect.Logging.csproj" />
